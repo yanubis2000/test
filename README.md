@@ -12,14 +12,5 @@ github -> clone -> commit
 
 
 ------------------
-pull request 테스트
-------------------
-pull request 테스트2
-------------------
-pull request 테스트3
-------------------
-pull request 테스트4
-------------------
-pull request 테스트5
-------------------
-pull request 테스트6
+pull request 테스트7
+
