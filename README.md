@@ -8,3 +8,8 @@ github -> clone -> commit
 
 2. 깃헙에서 push 시 전송테스트
 3. jenkns 재설치 후 테스트
+
+
+
+------------------
+pull request 테스트
